@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1509314196 source:c:\users\pedro\desktop\herramientas\tpespecial aida2\main.cpp
+	<iostream>
+	"Tablero.h"
+	"list"
+
+1509319341 source:c:\users\pedro\desktop\herramientas\tpespecial aida2\tablero.cpp
+	"Tablero.h"
+
+1509319341 c:\users\pedro\desktop\herramientas\tpespecial aida2\tablero.h
+
